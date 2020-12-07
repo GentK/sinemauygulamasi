@@ -1,0 +1,103 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="078CD588-E9EE-4CA1-8CD2-C258ACCABF5C" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="13">
+    <control controlID="C8A41C16-BDAE-458E-86BD-1793621B73A3" controlTypeID="StatusBar(Android)" x="0" y="0" w="360" h="20" zOrder="0">
+      <color>4281742902</color>
+    </control>
+    <control controlID="624C92B5-1465-4F44-91C6-1825216CFAB6" controlTypeID="Shape" x="0" y="20" w="360" h="48" zOrder="1">
+      <color>4282598211</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="66569C6C-BE31-4377-A6B4-9D2E5F5739EF" controlTypeID="Icon" x="280" y="34" w="19" h="19" zOrder="2">
+      <color>4289638062</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62628</iconCode>
+      </icon>
+      <URL>274F8E6597A0B62726A97F81B99D884E.svg</URL>
+    </control>
+    <control controlID="35971B8F-DC13-4949-B768-2CAD6FCE2A37" controlTypeID="Icon" x="319" y="34" w="19" h="19" zOrder="3">
+      <color>4289638062</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62356</iconCode>
+      </icon>
+      <URL>F8C2434C2C958119B1E6150C97C501FA.svg</URL>
+    </control>
+    <control controlID="B4FE697F-B4F5-4D40-A980-D7571699C9D8" controlTypeID="Label" x="10" y="31" w="60" h="22" zOrder="4">
+      <color>11447982</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <text>Discover</text>
+      <textColor>4289638062</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9DEA9EC9-1A62-477B-9A49-DEACC88AD2C4" controlTypeID="Image" x="0" y="68" w="180" h="286" zOrder="5">
+      <URL>09BCBF5C3F24A31754DBDB4B0E4FCE87.jpg</URL>
+    </control>
+    <control controlID="82F07F3D-3E5D-4815-9C42-00147568DC08" controlTypeID="Image" x="180" y="68" w="180" h="286" zOrder="6">
+      <URL>30D264D1F04DAF98125F5A4F33701908.jpg</URL>
+    </control>
+    <control controlID="AB4E6DD5-E0CF-4C42-8C64-4FBF9427F680" controlTypeID="Shape" x="180" y="316" w="180" h="38" zOrder="7">
+      <color>4280377932</color>
+      <borderVisible>False</borderVisible>
+      <opacity>0.800000011920929</opacity>
+      <font family="Segoe+UI+Historic" displayName="Segoe+UI+Historic" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Joker</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D1D4623B-28B2-41DB-BF5B-834D45169BC9" controlTypeID="Shape" x="0" y="316" w="180" h="38" zOrder="8">
+      <color>4283379225</color>
+      <borderVisible>False</borderVisible>
+      <opacity>0.800000011920929</opacity>
+      <font family="Segoe+UI+Historic" displayName="Segoe+UI+Historic" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Life+is+Beautiful</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B0013BA9-17C6-46AE-BD2F-C8C65CA4E60E" controlTypeID="Image" x="0" y="354" w="180" h="286" zOrder="9">
+      <URL>D51CA47AB3BDB0FDBD01C8D410EDFDB8.jpg</URL>
+    </control>
+    <control controlID="FDF4A705-2CA6-4437-9F7F-15162A7C472E" controlTypeID="Shape" x="0" y="602" w="180" h="38" zOrder="10">
+      <color>4280561459</color>
+      <borderVisible>False</borderVisible>
+      <opacity>0.800000011920929</opacity>
+      <font family="Segoe+UI+Historic" displayName="Segoe+UI+Historic" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Interstellar</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="80507256-671E-4949-9B3F-818488B2F3F4" controlTypeID="Image" x="180" y="354" w="180" h="286" zOrder="11">
+      <URL>2D4787D8673448316AF45D2101B4F412.jpg</URL>
+    </control>
+    <control controlID="16EE6E0F-EB39-432E-B017-5C711E13206B" controlTypeID="Shape" x="180" y="602" w="180" h="38" zOrder="12">
+      <color>4279838530</color>
+      <borderVisible>False</borderVisible>
+      <opacity>0.800000011920929</opacity>
+      <font family="Segoe+UI+Historic" displayName="Segoe+UI+Historic" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>B%C3%B6r%C3%BC</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

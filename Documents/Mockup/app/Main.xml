@@ -1,0 +1,53 @@
+﻿<project version="2.9" name="Project" ID="B35F2B3F-989A-4506-B00C-90C39758408D">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtAndroid" pageSize="(360,640)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="078CD588-E9EE-4CA1-8CD2-C258ACCABF5C" expanded="False" code="rooVWsUXRm" thumbCode="rooVWsUXRm" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="30D264D1F04DAF98125F5A4F33701908.jpg"/>
+        <image key="2D4787D8673448316AF45D2101B4F412.jpg"/>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="274F8E6597A0B62726A97F81B99D884E.svg"/>
+        <image key="D51CA47AB3BDB0FDBD01C8D410EDFDB8.jpg"/>
+        <image key="09BCBF5C3F24A31754DBDB4B0E4FCE87.jpg"/>
+      </images>
+    </page>
+    <page name="Home2" ID="641CB798-B5EA-46BA-B521-1F048732862C" expanded="False" code="ZQopTGvXZY" thumbCode="ZQopTGvXZY" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="30D264D1F04DAF98125F5A4F33701908.jpg"/>
+        <image key="2D4787D8673448316AF45D2101B4F412.jpg"/>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="274F8E6597A0B62726A97F81B99D884E.svg"/>
+        <image key="D51CA47AB3BDB0FDBD01C8D410EDFDB8.jpg"/>
+        <image key="09BCBF5C3F24A31754DBDB4B0E4FCE87.jpg"/>
+      </images>
+    </page>
+    <page name="Home3" ID="0F391860-7E10-42F2-9DA4-3F508B0D2127" expanded="False" code="bFmLQiZvQb" thumbCode="bFmLQiZvQb" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="274F8E6597A0B62726A97F81B99D884E.svg"/>
+        <image key="C03823813EDF8D0E6D2D4F30F01A64CC.jpg"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="919A2B09A8619A2C5955D4F5A5333BF3.jpg"/>
+      </images>
+    </page>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="D51CA47AB3BDB0FDBD01C8D410EDFDB8.jpg"/>
+    <image key="274F8E6597A0B62726A97F81B99D884E.svg"/>
+    <image key="919A2B09A8619A2C5955D4F5A5333BF3.jpg"/>
+    <image key="30D264D1F04DAF98125F5A4F33701908.jpg"/>
+    <image key="2D4787D8673448316AF45D2101B4F412.jpg"/>
+    <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+    <image key="C03823813EDF8D0E6D2D4F30F01A64CC.jpg"/>
+    <image key="09BCBF5C3F24A31754DBDB4B0E4FCE87.jpg"/>
+    <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+  </images>
+</project>
