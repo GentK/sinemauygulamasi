@@ -1,6 +1,6 @@
-package com.tra.movies.favorites;
+package com.gent.movies.favorites;
 
-import com.tra.movies.Movie;
+import com.gent.movies.Movie;
 
 import java.util.List;
 

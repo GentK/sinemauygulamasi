@@ -1,4 +1,4 @@
-package com.tra.movies.network;
+package com.gent.movies.network;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -17,8 +17,8 @@ import androidx.annotation.RequiresApi;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
-import com.tra.movies.R;
-import com.tra.movies.listing.MoviesListingActivity;
+import com.gent.movies.R;
+import com.gent.movies.listing.MoviesListingActivity;
 
 import java.util.Map;
 

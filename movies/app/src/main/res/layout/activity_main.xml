@@ -9,7 +9,7 @@
 
     <fragment
         android:id="@+id/fragment_listing"
-        android:name="com.tra.movies.listing.MoviesListingFragment"
+        android:name="com.gent.movies.listing.MoviesListingFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout="@layout/fragment_movies"/>

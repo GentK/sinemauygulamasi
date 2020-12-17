@@ -1,7 +1,7 @@
-package com.tra.movies.details;
+package com.gent.movies.details;
 
-import com.tra.movies.favorites.FavoritesInteractor;
-import com.tra.movies.network.TmdbWebService;
+import com.gent.movies.favorites.FavoritesInteractor;
+import com.gent.movies.network.TmdbWebService;
 
 import dagger.Module;
 import dagger.Provides;

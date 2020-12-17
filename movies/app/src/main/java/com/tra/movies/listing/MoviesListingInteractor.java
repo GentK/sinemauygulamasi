@@ -1,6 +1,6 @@
-package com.tra.movies.listing;
+package com.gent.movies.listing;
 
-import com.tra.movies.Movie;
+import com.gent.movies.Movie;
 
 import java.util.List;
 

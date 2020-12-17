@@ -1,4 +1,4 @@
-package com.tra.movies.listing.sorting;
+package com.gent.movies.listing.sorting;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -12,9 +12,9 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 
-import com.tra.movies.BaseApplication;
-import com.tra.movies.R;
-import com.tra.movies.listing.MoviesListingPresenter;
+import com.gent.movies.BaseApplication;
+import com.gent.movies.R;
+import com.gent.movies.listing.MoviesListingPresenter;
 
 import javax.inject.Inject;
 

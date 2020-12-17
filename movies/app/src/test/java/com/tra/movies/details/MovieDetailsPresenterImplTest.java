@@ -1,10 +1,10 @@
-package com.tra.movies.details;
+package com.gent.movies.details;
 
-import com.tra.movies.Movie;
-import com.tra.movies.Review;
-import com.tra.movies.listing.RxSchedulerRule;
-import com.tra.movies.Video;
-import com.tra.movies.favorites.FavoritesInteractor;
+import com.gent.movies.Movie;
+import com.gent.movies.Review;
+import com.gent.movies.listing.RxSchedulerRule;
+import com.gent.movies.Video;
+import com.gent.movies.favorites.FavoritesInteractor;
 
 import org.junit.After;
 import org.junit.Before;

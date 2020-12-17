@@ -1,4 +1,4 @@
-package com.tra.movies.listing;
+package com.gent.movies.listing;
 
 import org.junit.rules.TestRule;
 import org.junit.runner.Description;

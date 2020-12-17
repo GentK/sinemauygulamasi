@@ -1,6 +1,6 @@
-package com.tra.movies.favorites;
+package com.gent.movies.favorites;
 
-import com.tra.movies.AppModule;
+import com.gent.movies.AppModule;
 
 import javax.inject.Singleton;
 

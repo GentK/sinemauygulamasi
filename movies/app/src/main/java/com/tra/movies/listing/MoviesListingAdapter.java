@@ -1,4 +1,4 @@
-package com.tra.movies.listing;
+package com.gent.movies.listing;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -18,9 +18,9 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestOptions;
 import com.bumptech.glide.request.target.BitmapImageViewTarget;
 import com.bumptech.glide.request.transition.Transition;
-import com.tra.movies.Api;
-import com.tra.movies.Movie;
-import com.tra.movies.R;
+import com.gent.movies.Api;
+import com.gent.movies.Movie;
+import com.gent.movies.R;
 
 import java.util.List;
 

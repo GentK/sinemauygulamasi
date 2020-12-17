@@ -1,4 +1,4 @@
-package com.tra.movies.util;
+package com.gent.movies.util;
 
 
 import io.reactivex.disposables.Disposable;

@@ -1,4 +1,4 @@
-package com.tra.movies.listing;
+package com.gent.movies.listing;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -18,13 +18,13 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.InstanceIdResult;
-import com.tra.movies.Constants;
-import com.tra.movies.Movie;
-import com.tra.movies.R;
-import com.tra.movies.details.MovieDetailsActivity;
-import com.tra.movies.details.MovieDetailsFragment;
-import com.tra.movies.util.EspressoIdlingResource;
-import com.tra.movies.util.RxUtils;
+import com.gent.movies.Constants;
+import com.gent.movies.Movie;
+import com.gent.movies.R;
+import com.gent.movies.details.MovieDetailsActivity;
+import com.gent.movies.details.MovieDetailsFragment;
+import com.gent.movies.util.EspressoIdlingResource;
+import com.gent.movies.util.RxUtils;
 import com.jakewharton.rxbinding2.support.v7.widget.RxSearchView;
 
 import java.util.concurrent.TimeUnit;

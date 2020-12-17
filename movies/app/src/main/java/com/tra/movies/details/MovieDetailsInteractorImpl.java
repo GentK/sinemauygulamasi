@@ -1,10 +1,10 @@
-package com.tra.movies.details;
+package com.gent.movies.details;
 
-import com.tra.movies.Review;
-import com.tra.movies.ReviewsWrapper;
-import com.tra.movies.Video;
-import com.tra.movies.VideoWrapper;
-import com.tra.movies.network.TmdbWebService;
+import com.gent.movies.Review;
+import com.gent.movies.ReviewsWrapper;
+import com.gent.movies.Video;
+import com.gent.movies.VideoWrapper;
+import com.gent.movies.network.TmdbWebService;
 
 import java.util.List;
 

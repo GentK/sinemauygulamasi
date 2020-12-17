@@ -1,13 +1,13 @@
-package com.tra.movies.listing;
+package com.gent.movies.listing;
 
 import androidx.annotation.NonNull;
 
-import com.tra.movies.Movie;
-import com.tra.movies.MoviesWraper;
-import com.tra.movies.favorites.FavoritesInteractor;
-import com.tra.movies.listing.sorting.SortType;
-import com.tra.movies.listing.sorting.SortingOptionStore;
-import com.tra.movies.network.TmdbWebService;
+import com.gent.movies.Movie;
+import com.gent.movies.MoviesWraper;
+import com.gent.movies.favorites.FavoritesInteractor;
+import com.gent.movies.listing.sorting.SortType;
+import com.gent.movies.listing.sorting.SortingOptionStore;
+import com.gent.movies.network.TmdbWebService;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

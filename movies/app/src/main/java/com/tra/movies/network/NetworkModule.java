@@ -1,8 +1,8 @@
-package com.tra.movies.network;
+package com.gent.movies.network;
 
 
-import com.tra.movies.BuildConfig;
-import com.tra.movies.BuildConfig;
+import com.gent.movies.BuildConfig;
+import com.gent.movies.BuildConfig;
 
 import java.util.concurrent.TimeUnit;
 

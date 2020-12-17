@@ -1,4 +1,4 @@
-package com.tra.movies.listing;
+package com.gent.movies.listing;
 
 /**
  * @author arun

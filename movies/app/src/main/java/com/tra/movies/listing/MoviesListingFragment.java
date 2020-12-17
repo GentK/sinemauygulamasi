@@ -1,4 +1,4 @@
-package com.tra.movies.listing;
+package com.gent.movies.listing;
 
 
 import android.content.Context;
@@ -16,11 +16,11 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.tra.movies.BaseApplication;
-import com.tra.movies.Constants;
-import com.tra.movies.Movie;
-import com.tra.movies.R;
-import com.tra.movies.listing.sorting.SortingDialogFragment;
+import com.gent.movies.BaseApplication;
+import com.gent.movies.Constants;
+import com.gent.movies.Movie;
+import com.gent.movies.R;
+import com.gent.movies.listing.sorting.SortingDialogFragment;
 import com.google.android.material.snackbar.Snackbar;
 
 import org.jetbrains.annotations.NotNull;

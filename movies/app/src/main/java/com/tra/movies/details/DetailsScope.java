@@ -1,4 +1,4 @@
-package com.tra.movies.details;
+package com.gent.movies.details;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

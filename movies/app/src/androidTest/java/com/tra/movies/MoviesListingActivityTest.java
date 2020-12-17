@@ -1,4 +1,4 @@
-package com.tra.movies;
+package com.gent.movies;
 
 import androidx.test.espresso.Espresso;
 import androidx.test.espresso.IdlingResource;

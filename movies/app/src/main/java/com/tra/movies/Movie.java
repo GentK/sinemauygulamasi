@@ -1,4 +1,4 @@
-package com.tra.movies;
+package com.gent.movies;
 
 import android.os.Parcel;
 import android.os.Parcelable;

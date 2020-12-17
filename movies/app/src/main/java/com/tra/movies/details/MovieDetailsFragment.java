@@ -1,4 +1,4 @@
-package com.tra.movies.details;
+package com.gent.movies.details;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -21,13 +21,13 @@ import androidx.fragment.app.Fragment;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
-import com.tra.movies.Api;
-import com.tra.movies.BaseApplication;
-import com.tra.movies.Constants;
-import com.tra.movies.Movie;
-import com.tra.movies.R;
-import com.tra.movies.Review;
-import com.tra.movies.Video;
+import com.gent.movies.Api;
+import com.gent.movies.BaseApplication;
+import com.gent.movies.Constants;
+import com.gent.movies.Movie;
+import com.gent.movies.R;
+import com.gent.movies.Review;
+import com.gent.movies.Video;
 import com.google.android.material.appbar.CollapsingToolbarLayout;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 

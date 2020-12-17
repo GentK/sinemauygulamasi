@@ -1,4 +1,4 @@
-package com.tra.movies.listing.sorting;
+package com.gent.movies.listing.sorting;
 
 import android.content.Context;
 import android.content.SharedPreferences;

@@ -1,7 +1,7 @@
-package com.tra.movies.listing;
+package com.gent.movies.listing;
 
-import com.tra.movies.listing.sorting.SortingDialogFragment;
-import com.tra.movies.listing.sorting.SortingModule;
+import com.gent.movies.listing.sorting.SortingDialogFragment;
+import com.gent.movies.listing.sorting.SortingModule;
 
 import dagger.Subcomponent;
 

@@ -1,6 +1,6 @@
-package com.tra.movies.details;
+package com.gent.movies.details;
 
-import com.tra.movies.Movie;
+import com.gent.movies.Movie;
 
 /**
  * @author arun

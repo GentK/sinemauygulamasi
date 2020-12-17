@@ -1,8 +1,8 @@
-package com.tra.movies.network;
+package com.gent.movies.network;
 
-import com.tra.movies.MoviesWraper;
-import com.tra.movies.ReviewsWrapper;
-import com.tra.movies.VideoWrapper;
+import com.gent.movies.MoviesWraper;
+import com.gent.movies.ReviewsWrapper;
+import com.gent.movies.VideoWrapper;
 
 import io.reactivex.Observable;
 import retrofit2.http.GET;

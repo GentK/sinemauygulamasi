@@ -1,11 +1,11 @@
-package com.tra.movies;
+package com.gent.movies;
 
-import com.tra.movies.details.DetailsComponent;
-import com.tra.movies.details.DetailsModule;
-import com.tra.movies.favorites.FavoritesModule;
-import com.tra.movies.listing.ListingComponent;
-import com.tra.movies.listing.ListingModule;
-import com.tra.movies.network.NetworkModule;
+import com.gent.movies.details.DetailsComponent;
+import com.gent.movies.details.DetailsModule;
+import com.gent.movies.favorites.FavoritesModule;
+import com.gent.movies.listing.ListingComponent;
+import com.gent.movies.listing.ListingModule;
+import com.gent.movies.network.NetworkModule;
 
 import javax.inject.Singleton;
 

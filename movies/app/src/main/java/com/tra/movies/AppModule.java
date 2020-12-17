@@ -1,4 +1,4 @@
-package com.tra.movies;
+package com.gent.movies;
 
 import android.app.Application;
 import android.content.Context;

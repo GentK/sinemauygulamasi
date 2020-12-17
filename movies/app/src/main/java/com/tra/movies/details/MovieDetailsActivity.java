@@ -1,4 +1,4 @@
-package com.tra.movies.details;
+package com.gent.movies.details;
 
 import android.os.Bundle;
 import android.view.MenuItem;
@@ -6,9 +6,9 @@ import android.view.MenuItem;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.NavUtils;
 
-import com.tra.movies.Constants;
-import com.tra.movies.Movie;
-import com.tra.movies.R;
+import com.gent.movies.Constants;
+import com.gent.movies.Movie;
+import com.gent.movies.R;
 
 public class MovieDetailsActivity extends AppCompatActivity {
     @Override

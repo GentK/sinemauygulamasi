@@ -1,7 +1,7 @@
-package com.tra.movies.details;
+package com.gent.movies.details;
 
-import com.tra.movies.Review;
-import com.tra.movies.Video;
+import com.gent.movies.Review;
+import com.gent.movies.Video;
 
 import java.util.List;
 

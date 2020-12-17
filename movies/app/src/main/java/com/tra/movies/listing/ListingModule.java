@@ -1,8 +1,8 @@
-package com.tra.movies.listing;
+package com.gent.movies.listing;
 
-import com.tra.movies.favorites.FavoritesInteractor;
-import com.tra.movies.listing.sorting.SortingOptionStore;
-import com.tra.movies.network.TmdbWebService;
+import com.gent.movies.favorites.FavoritesInteractor;
+import com.gent.movies.listing.sorting.SortingOptionStore;
+import com.gent.movies.network.TmdbWebService;
 
 import dagger.Module;
 import dagger.Provides;

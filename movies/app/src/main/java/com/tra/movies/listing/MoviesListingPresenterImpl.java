@@ -1,10 +1,10 @@
-package com.tra.movies.listing;
+package com.gent.movies.listing;
 
 import androidx.annotation.NonNull;
 
-import com.tra.movies.Movie;
-import com.tra.movies.util.EspressoIdlingResource;
-import com.tra.movies.util.RxUtils;
+import com.gent.movies.Movie;
+import com.gent.movies.util.EspressoIdlingResource;
+import com.gent.movies.util.RxUtils;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.tra.movies.util;
+package com.gent.movies.util;
 
 import androidx.test.espresso.IdlingResource;
 
